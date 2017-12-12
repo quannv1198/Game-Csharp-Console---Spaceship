@@ -1,0 +1,10 @@
+C:\Users\MyPC\Desktop\do-an\bin\Debug\netcoreapp2.0\do-an.deps.json
+C:\Users\MyPC\Desktop\do-an\bin\Debug\netcoreapp2.0\do-an.runtimeconfig.json
+C:\Users\MyPC\Desktop\do-an\bin\Debug\netcoreapp2.0\do-an.runtimeconfig.dev.json
+C:\Users\MyPC\Desktop\do-an\bin\Debug\netcoreapp2.0\do-an.dll
+C:\Users\MyPC\Desktop\do-an\bin\Debug\netcoreapp2.0\do-an.pdb
+C:\Users\MyPC\Desktop\do-an\obj\Debug\netcoreapp2.0\do-an.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\do-an\obj\Debug\netcoreapp2.0\do-an.AssemblyInfoInputs.cache
+C:\Users\MyPC\Desktop\do-an\obj\Debug\netcoreapp2.0\do-an.AssemblyInfo.cs
+C:\Users\MyPC\Desktop\do-an\obj\Debug\netcoreapp2.0\do-an.dll
+C:\Users\MyPC\Desktop\do-an\obj\Debug\netcoreapp2.0\do-an.pdb
